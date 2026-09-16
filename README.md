@@ -52,13 +52,13 @@ Built the entire system solo — both the Django/DRF backend and web admin, and 
 
 <!-- See the "how to add screenshots" guidance in chat — insert images below in this section -->
 
-| Map-Based Check-In | Offline Sync Queue | Today's Map |
+| Map-Based Check-In | Reports | Today's Map |
 |---|---|---|
-| ![Check-in](./screenshots/8.png) | ![Reports](./screenshots/4.png) | ![Today's map](./screenshots/7.jpeg) |
+| ![Check-in](./screenshots/5.png) | ![Reports](./screenshots/4.png) | ![Today's map](./screenshots/7.jpeg) |
 
-| Attendance & Activity Log | Farmer/PU Search | Admin Dashboard |
+| Visits & Activity Details | Projects | Admin Dashboard |
 |---|---|---|
-| ![Visits](./screenshots/6.jpeg) | ![Search](./screenshots/5.png) | ![Admin dashboard](./screenshots/1.png) |
+| ![Visits](./screenshots/6.jpeg) | ![Projects](./screenshots/2.png) | ![Admin dashboard](./screenshots/1.png) |
 
 ## What I'd Improve Next
 
