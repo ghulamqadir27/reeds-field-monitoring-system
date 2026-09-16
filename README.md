@@ -54,11 +54,11 @@ Built the entire system solo — both the Django/DRF backend and web admin, and 
 
 | Map-Based Check-In | Offline Sync Queue | Today's Map |
 |---|---|---|
-| ![Check-in](./screenshots/checkin.png) | ![Offline queue](./screenshots/offline-sync.png) | ![Today's map](./screenshots/todays-map.png) |
+| ![Check-in](./screenshots/8.png) | ![Reports](./screenshots/4.png) | ![Today's map](./screenshots/7.jpeg) |
 
 | Attendance & Activity Log | Farmer/PU Search | Admin Dashboard |
 |---|---|---|
-| ![Attendance](./screenshots/attendance.png) | ![Search](./screenshots/search.png) | ![Admin dashboard](./screenshots/admin-dashboard.png) |
+| ![Visits](./screenshots/6.jpeg) | ![Search](./screenshots/5.png) | ![Admin dashboard](./screenshots/1.png) |
 
 ## What I'd Improve Next
 
